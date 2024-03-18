@@ -37,14 +37,17 @@ Bad credentials ❌
 # Web layer
 ### PatientController
 `/patients`
+
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/d6c6e29d-2e0b-4c92-87d6-36d38ab68550)
 
 
 ### UserController
 `/users`
+
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/d23ac1fa-2c3f-4b9b-9591-4928550717f6)
 
 `/users/{username}`
+
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/6c8f2cc6-9ef7-44c4-9c5d-2f9d38cd36fe)
 
 
