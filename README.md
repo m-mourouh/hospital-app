@@ -1,4 +1,4 @@
-# Hospital App
+# Hospital App 
 
 ### Find all patients
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/2e39b23f-3d8c-495d-9578-ae4fa63f644c)
@@ -29,9 +29,12 @@
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/01c1308a-1480-4431-b51a-d70d39dea7d1)
 
 ### User Authentication 
-Correct credentials ✅
+`Correct credentials ✅`
+
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/7ee36b9c-05ba-4e8c-96ad-93f82a23a293)
-Bad credentials ❌
+
+`Bad credentials ❌`
+
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/a0ea299e-7137-4a66-9727-4dc7c7f3152e)
 
 # Web layer
