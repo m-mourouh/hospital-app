@@ -1,4 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Java-17-orange)
 # Hospital App 
+![image](https://github.com/m-mourouh/hospital-app/assets/60442896/a6dd05bf-f48e-4cf7-a7b6-3473aa1cf286)
 
 ### Find all patients
 ![image](https://github.com/m-mourouh/hospital-app/assets/60442896/2e39b23f-3d8c-495d-9578-ae4fa63f644c)
